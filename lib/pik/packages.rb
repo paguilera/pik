@@ -77,7 +77,19 @@ module Pik
       ["[ruby-]1.9.2[-p180]",
         {:implementation=>"MRI Ruby",
          :url=>
-          "http://rubyforge.org/frs/download.php/74299/ruby-1.9.2-p180-i386-mingw32.7z"}]
+          "http://rubyforge.org/frs/download.php/74299/ruby-1.9.2-p180-i386-mingw32.7z"}],
+      ["[ruby-]1.9.3[-p484]",
+        {:implementation=>"MRI Ruby",
+         :url=>
+          "http://dl.bintray.com/oneclick/rubyinstaller/ruby-1.9.3-p484-i386-mingw32.7z"}],
+      ["[ruby-]2.0.0[-p353-i386]",
+        {:implementation=>"MRI Ruby",
+         :url=>
+          "http://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p353-i386-mingw32.7z"}],
+      ["[ruby-]2.0.0-p353-x64",
+        {:implementation=>"MRI Ruby",
+         :url=>
+          "http://dl.bintray.com/oneclick/rubyinstaller/ruby-2.0.0-p353-x64-mingw32.7z"}]
           
     ]
 
